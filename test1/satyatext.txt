@@ -1,0 +1,25 @@
+DevOps engineers work on Agile development teams with other developers 
+and foundation architects. They design the application build, including
+ suggesting the simplest and most cost-effective system options. Most 
+ importantly, these engineers create automated development practices to e
+ nsure architecture standardization for faster development processes. 
+ Additionally, they improve processes for delivering software to customers.
+ This includes updates, because DevOps engineers
+ test prototypes throughout the development and delivery processes to 
+ identify operational issues and automate fixes for those bugs.
+
+Job responsibilities of a DevOps engineer include:
+
+Creating style guides for software and applications
+Maintaining company goals for the product's performance
+Tracking bottlenecking issues with the deployment of programs
+and updates
+Understanding tools such as Bamboo, Chef, and Puppet
+Build and Release Engineers
+Build and release engineers create and maintain an infrastructure, 
+often called a source control system or build system, full of tools
+ and frameworks that will make the job of software building and deployment 
+ easier. As part of this system, they design scripts and tools used for software
+ development that use Python or even Java programming and scripting to create source code.
+ Part of their job is to seamlessly integrate updates of the software using continuous delivery pipelines, 
+ which will take the updates to the user faster.
